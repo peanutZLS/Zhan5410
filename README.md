@@ -1,6 +1,6 @@
 - 👋 Hi，我叫謝智翰，目前就讀澎湖，是一位資訊工程系的學生
 <!-- 👀 I’m interested in ... -->
-- 🌱 我目前正在學習 Java 、 MySQL 、 Python 、 C++ 等等
+- 🌱 我目前正在學習 Java 、 Python 、 C++ ，並打算學習 MySQL 和 Maven 等相關工具
 - 💞️ 目前正在尋找工作或實習的機會
 - 📫 我的聯絡方式：d08405052@ems.npu.edu.tw
 - 這是關於我 Java 在校時的 Code [here](https://github.com/Zhan5410/java_course)

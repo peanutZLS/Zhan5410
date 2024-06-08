@@ -3,7 +3,7 @@
 
 - 🌱 我正在學習 ： **C# & .NET ， Docker & kubernetes**
 
-- 🔭 曾經的demo ： [side_project](https://github.com/Zhan5410/chi_cooperate)
+- 🔭 曾經的demo ： side_project(<https://github.com/Zhan5410/chi_cooperate)>
 
 - 🔭 學習kotlin時的demo ： [MixerConverter]（<https://github.com/Zhan5410/MixerConverter）>
 
